@@ -1,2 +1,3 @@
+pub mod p00098_validate_binary_search_tree;
 pub mod p00102_binary_tree_level_order_traversal;
 pub mod p00235_lowest_common_ancestor_of_a_binary_search_tree;
