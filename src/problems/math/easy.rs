@@ -5,3 +5,4 @@ pub mod p00069_sqrtx;
 pub mod p00070_climbing_stairs;
 pub mod p00168_excel_sheet_column_title;
 pub mod p00171_excel_sheet_column_number;
+pub mod p00202_happy_number;
