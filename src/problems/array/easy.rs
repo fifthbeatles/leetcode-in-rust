@@ -4,5 +4,6 @@ pub mod p00027_remove_element;
 pub mod p00035_search_insert_position;
 pub mod p00066_plus_one;
 pub mod p00169_majority_element;
+pub mod p00217_contains_duplicate;
 pub mod p00278_first_bad_version;
 pub mod p00704_binary_search;
