@@ -11,4 +11,5 @@ pub mod p00075_sort_colors;
 pub mod p00078_subsets;
 pub mod p00150_evaluate_reverse_polish_notation;
 pub mod p00238_product_of_array_except_self;
+pub mod p00438_find_all_anagrams_in_a_string;
 pub mod p00973_k_closest_points_to_origin;
