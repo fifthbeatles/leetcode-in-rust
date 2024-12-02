@@ -7,3 +7,4 @@ pub mod p00169_majority_element;
 pub mod p00217_contains_duplicate;
 pub mod p00278_first_bad_version;
 pub mod p00704_binary_search;
+pub mod p03354_make_array_elements_equal_to_zero;
