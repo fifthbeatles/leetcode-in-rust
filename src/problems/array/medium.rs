@@ -15,3 +15,4 @@ pub mod p00438_find_all_anagrams_in_a_string;
 pub mod p00621_task_scheduler;
 pub mod p00973_k_closest_points_to_origin;
 pub mod p03355_zero_array_transformation_i;
+pub mod p03356_zero_array_transformation_ii;
